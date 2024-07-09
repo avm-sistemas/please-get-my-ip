@@ -22,6 +22,8 @@ https://github.com/avmesquita/please-get-my-ip
 
 If help, consider take me a coffee.
 
+https://buymeacoffee.com/avmesquita
+
 https://www.paypal.com/paypalme/avmesquita
 
 ## Donating
