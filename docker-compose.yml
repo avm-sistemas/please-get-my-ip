@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+    pgmi:
+        #build: .
+        image: avmesquita/please-get-my-ip
+        container_name: please-get-my-ip
+        ports:
+          - 80:80
