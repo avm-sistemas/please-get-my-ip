@@ -29,3 +29,5 @@ https://www.paypal.com/paypalme/avmesquita
 ## Donating
 
 My blog and open source projects are result of my passion for software development, but they require a fair amount of my personal time. If you got value from any of the content I create, then I would appreciate your support by [sponsoring me](https://github.com/sponsors/avmesquita) (either monthly or one-time).
+
+<!-- GitAds-Verify: 5RJZFZ3KKJ92EWYKC4J2IQYZCPJSQU4M -->
